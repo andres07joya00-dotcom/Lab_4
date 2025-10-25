@@ -1,0 +1,3 @@
+/home/joyita/lab_4_ALSE/biblioteca/build/CMakeFiles/Biblioteca.dir
+/home/joyita/lab_4_ALSE/biblioteca/build/CMakeFiles/edit_cache.dir
+/home/joyita/lab_4_ALSE/biblioteca/build/CMakeFiles/rebuild_cache.dir
