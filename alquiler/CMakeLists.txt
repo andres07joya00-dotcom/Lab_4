@@ -20,4 +20,4 @@ set(SOURCES
 )
 
 # Crear el ejecutable
-add_executable(Biblioteca ${SOURCES})
+add_executable(SistemaAlquiler ${SOURCES})

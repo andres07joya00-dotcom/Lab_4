@@ -1,0 +1,3 @@
+/home/joyita/lab_4_ALSE/alquiler/build/CMakeFiles/SistemaAlquiler.dir
+/home/joyita/lab_4_ALSE/alquiler/build/CMakeFiles/edit_cache.dir
+/home/joyita/lab_4_ALSE/alquiler/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/SistemaAlquiler.dir/src/Vehiculo.cpp.o CMakeFiles/SistemaAlquiler.dir/src/Type.cpp.o CMakeFiles/SistemaAlquiler.dir/src/SistemaAlquiler.cpp.o CMakeFiles/SistemaAlquiler.dir/src/main.cpp.o -o SistemaAlquiler 

@@ -1,0 +1,7 @@
+{
+    "cmake.sourceDirectory": "/home/joyita/lab_4_ALSE/alquiler",
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

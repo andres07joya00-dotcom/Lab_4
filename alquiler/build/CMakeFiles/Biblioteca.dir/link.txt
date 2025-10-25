@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Biblioteca.dir/src/Vehiculo.cpp.o CMakeFiles/Biblioteca.dir/src/Type.cpp.o CMakeFiles/Biblioteca.dir/src/SistemaAlquiler.cpp.o CMakeFiles/Biblioteca.dir/src/main.cpp.o -o Biblioteca 
